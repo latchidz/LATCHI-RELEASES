@@ -1,7 +1,7 @@
 {
   "update_available": true,
-  "versionCode": 2026091004,
-  "versionName": "2.1.9",
-  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/raw/main/LATCHI-IPTV-v2.1.9.apk",
-  "notes": "أيقونة جديدة كلياً + سبلاش بمقاس شاشتك بالضبط + سبلاش إسلامي ديني جديد + شاشات تفعيل وترحيب جديدة بحركات أنيقة + إصلاح مركز الحسابات + تحميل المشاهدة بدون إنترنت"
+  "versionCode": 2026091006,
+  "versionName": "2.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/latchidz/LATCHI-RELEASES/main/LATCHI-IPTV-v2.2.0.apk",
+  "notes": "شاشة اختيار اللغة عند أول تشغيل + إعادة بناء مركز الحسابات جذرياً + ترجمة كاملة + المشغل بالإنجليزية"
 }
