@@ -1,10 +1,10 @@
 {
-  "versionName": "1.0.20",
-  "versionCode": 21,
-  "apk": "LATCHI-WATCHING-v1.0.20.apk",
+  "versionName": "1.0.21",
+  "versionCode": 22,
+  "apk": "LATCHI-WATCHING-v1.0.21.apk",
   "force": true,
   "changelog": [
-    "تحديث مستقل لتطبيق WATCHING من لوحة التحكم مباشرة",
-    "تحديثات أسرع — بدون انتظار GitHub"
+    "خروج حقيقي نهائي — موافق يغلق التطبيق فعلياً ويعيد تشغيله من جديد",
+    "إصلاح مشكلة العودة لنفس الواجهة بعد الخروج"
   ]
 }
