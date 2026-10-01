@@ -1,7 +1,10 @@
 {
   "update_available": true,
-  "versionCode": 2026091008,
-  "versionName": "2.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/latchidz/LATCHI-RELEASES/main/LATCHI-IPTV-v2.3.0.apk",
-  "notes": "اللغة في كل مكان + إزالة زر اكستريم + عناوين متحركة + ترتيب الفئات الجديد + صور تحقق حسب اللغة"
+  "versionCode": 2026100102,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/v2026100102/latchi-iptv-2026100102.apk",
+  "forceUpdate": true,
+  "notes": {
+    "ar": "LATCHI TV 1.1 — الاسم الجديد LATCHI TV + بحث شامل (قناة/فيلم/مسلسل معاً) + تحكم كامل من هاتفك بتطبيق LATCHI Remote عبر الواي فاي. ثبّته فوق النسخة القديمة مباشرة."
+  }
 }
