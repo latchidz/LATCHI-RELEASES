@@ -1,0 +1,11 @@
+{
+  "update_available": true,
+  "versionCode": 6,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/remote-v1.1.0/latchi-remote-1.1.0.apk",
+  "forceUpdate": false,
+  "notes": {
+    "ar": "LATCHI Remote 1.1.0 — بحث شامل في محتوى الجهاز المتصل (قناة/فيلم/مسلسل) وتشغيل فوري بالضغط على النتيجة + دعم تلفاز LATCHI TV بأيقونة مختلفة وتحكم كامل + أيقونات متجهة نظيفة بلا أي إيموجي",
+    "en": "LATCHI Remote 1.1.0 — global search across the connected device (channel/movie/series) with instant play + LATCHI TV support with full control + clean vector icons with no emoji."
+  }
+}
