@@ -1,10 +1,10 @@
 {
   "update_available": true,
-  "versionCode": 2026093001,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/tv-v2026093001/latchi-tv-2026093001.apk",
+  "versionCode": 2026100101,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/tv-v2026100101/latchi-tv-2026100101.apk",
   "forceUpdate": true,
   "notes": {
-    "ar": "تحديث جديد لتطبيق LATCHI TV — ثبّته مباشرة فوق القديم."
+    "ar": "LATCHI TV 1.1 — بحث شامل جديد (قناة/فيلم/مسلسل دفعة واحدة) + تحكم كامل من هاتفك بتطبيق LATCHI Remote على نفس الواي فاي: اكتشف LATCHI TV وتحكم بالأسهم والأرقام وابحث وشغّل مباشرة. ثبّته فوق القديم."
   }
 }
