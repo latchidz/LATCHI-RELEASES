@@ -1,10 +1,10 @@
 {
   "update_available": true,
-  "versionCode": 2026100701,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/tv-v2026100701/latchi-tv-2026100701.apk",
+  "versionCode": 2026100702,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/tv-v2026100702/latchi-tv-2026100702.apk",
   "forceUpdate": true,
   "notes": {
-    "ar": "LATCHI TV ² 1.2 — واجهة جديدة بأسلوب الحاسوب: يفتح أفقياً دائماً، بطاقات عريضة للأفلام والمسلسلات مطابقة للحاسوب، وإمكانية إضافة رابط M3U أو Xtream مباشرة من الرئيسية. ثبّته فوق النسخة القديمة مباشرة."
+    "ar": "LATCHI TV ² 1.3 — واجهة تلفاز ذكي: ثلاثة أعمدة (فئات/محتوى/تفاصيل)، وضع غامر يخفي الأشرطة، مشغّل مصغّر للبث المباشر يتوسع لكامل الشاشة دون انقطاع، بوسترات عمودية للأفلام وقائمة أسماء للمسلسلات. ثبّته فوق النسخة القديمة مباشرة."
   }
 }
