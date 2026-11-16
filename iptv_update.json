@@ -1,10 +1,10 @@
 {
   "update_available": true,
-  "versionCode": 2026111601,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/v2026111601/latchi-iptv-2026111601.apk",
+  "versionCode": 2026111602,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/v2026111602/latchi-iptv-2026111602.apk",
   "forceUpdate": true,
   "notes": {
-    "ar": "LATCHI TV 1.4.0 — ديزاين احترافي جديد: بطاقات رئيسية fluffy 3D للهاتف والتلفاز، أيقونة تطبيق جديدة أجمل، بانر تلفاز عريض بالشعار، شاشة تحقق من الاشتراك أنيقة بشريط تقدم ذهبي ونسبة مئوية، وفتح مباشر للرئيسية للحساب الموثوق. ثبّته فوق النسخة الموجودة مباشرة."
+    "ar": "LATCHI TV 1.4.1 — بطاقات التلفاز بمقاس 6:3 العريض، سبلاش جديد للهاتف والتلفاز بوجه صاحب التطبيق فوق الجبل وشعار LATCHI TV المتوهج. ثبّته فوق النسخة الموجودة مباشرة."
   }
 }
