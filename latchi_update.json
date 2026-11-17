@@ -1,12 +1,14 @@
 {
-  "versionName": "1.1.0",
-  "versionCode": 23,
-  "apk": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/watching-v1.1.0/LATCHI-WATCHING-v1.1.0.apk",
+  "versionName": "1.2.0",
+  "versionCode": 24,
+  "apk": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/watching-v1.2.0/LATCHI-WATCHING-v1.2.0.apk",
   "force": true,
   "changelog": [
-    "6 مصادر رسمية: TopCinema · قرمزي · قصة عشق · TukTuk Cinema · Arabic Toons · Movie Box",
-    "قرمزي وقصة عشق: مسلسلات ومفضلة مباشرة — بلا قسم أفلام",
-    "زر الترجمة 🌐 الجديد بجانب المصادر: يفعّل/يوقف الترجمة العربية لكل الأفلام",
-    "إصلاح جلب قوائم المصادر (روابط plugins.json المحدثة)"
+    "أيقونة تطبيق جديدة احترافية",
+    "واجهة المصادر بتصميم احترافي: اسم التطبيق ذهبي من الفوق + قائمة جانبية",
+    "زر الترجمة 🌐 صار في القائمة الجانبية",
+    "بانر قصة عشق الجديد + بانرات Arabic Toons و Movie Box",
+    "زر الرجوع من أي مصدر يرجعك لشاشة المصادر",
+    "حماية الخروج: ضغطتين + لافتة تأكيد احترافية (البقاء/خروج)"
   ]
 }
