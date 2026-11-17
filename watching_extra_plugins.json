@@ -1,0 +1,45 @@
+[
+ {
+  "iconUrl": "https://www.arabic-toons.com/images/logo.png",
+  "fileHash": "sha256-ccf1d16c43000530d44d2af138586732cc48ca76561111e984c3d9f1d6cec7d8",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/med1245/cartoonyrepo",
+  "fileSize": 24437,
+  "status": 1,
+  "language": "ar",
+  "authors": [
+   "Mehdi Marsaman"
+  ],
+  "tvTypes": [
+   "TvSeries",
+   "Anime",
+   "Movie"
+  ],
+  "version": 1,
+  "internalName": "ArabicToons",
+  "description": "Arabic cartoons, anime, series, and movies from arabic-toons.com",
+  "url": "https://raw.githubusercontent.com/med1245/cartoonyrepo/builds/ArabicToons-v1.cs3",
+  "name": "ArabicToons"
+ },
+ {
+  "iconUrl": "https://github.com/ToonTamilIndia/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+  "fileHash": "sha256-0b2b36479bac95c0edb8f8a5deccf7ffa8b64500c79299ba143e42fb6d9729bc",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/ToonTamilIndia/CNCVerse-Cloud-Stream-Extension",
+  "fileSize": 71954,
+  "status": 1,
+  "language": "hi",
+  "authors": [
+   "ToonTamilIndia"
+  ],
+  "tvTypes": [
+   "Movie",
+   "TvSeries"
+  ],
+  "version": 47,
+  "internalName": "MovieBoxProvider",
+  "description": "Multi Language Movies and Series Provider",
+  "url": "https://raw.githubusercontent.com/ToonTamilIndia/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
+  "name": "MovieBoxProvider"
+ }
+]
