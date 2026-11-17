@@ -1,0 +1,10 @@
+{
+  "versionCode": 10000,
+  "versionName": "1.0.0",
+  "force": false,
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/store-v1.0.0/LATCHI-STORE-1.0.0-universal.apk",
+  "apkUrl_x86_64": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/store-v1.0.0/LATCHI-STORE-1.0.0-x86_64.apk",
+  "apkUrl_arm64": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/store-v1.0.0/LATCHI-STORE-1.0.0-arm64-v8a.apk",
+  "apkUrl_armv7": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/store-v1.0.0/LATCHI-STORE-1.0.0-armeabi-v7a.apk",
+  "changelog": "الإصدار الرسمي الأول لمتجر LATCHI STORE v1.0.0 مع شاشة LATCHI Android Desktop ودرج التطبيقات الكامل ودعم معماريات WSA (x86_64 / ARM64 / ARMv7)."
+}
