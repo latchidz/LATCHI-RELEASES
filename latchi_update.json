@@ -1,10 +1,12 @@
 {
-  "versionName": "1.0.21",
-  "versionCode": 22,
-  "apk": "LATCHI-WATCHING-v1.0.21.apk",
+  "versionName": "1.1.0",
+  "versionCode": 23,
+  "apk": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/watching-v1.1.0/LATCHI-WATCHING-v1.1.0.apk",
   "force": true,
   "changelog": [
-    "خروج حقيقي نهائي — موافق يغلق التطبيق فعلياً ويعيد تشغيله من جديد",
-    "إصلاح مشكلة العودة لنفس الواجهة بعد الخروج"
+    "6 مصادر رسمية: TopCinema · قرمزي · قصة عشق · TukTuk Cinema · Arabic Toons · Movie Box",
+    "قرمزي وقصة عشق: مسلسلات ومفضلة مباشرة — بلا قسم أفلام",
+    "زر الترجمة 🌐 الجديد بجانب المصادر: يفعّل/يوقف الترجمة العربية لكل الأفلام",
+    "إصلاح جلب قوائم المصادر (روابط plugins.json المحدثة)"
   ]
 }
