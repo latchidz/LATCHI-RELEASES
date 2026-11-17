@@ -1,7 +1,7 @@
 {
-  "version_name": "1.4.0",
-  "version_code": 5,
-  "apk_url": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/hub-v1.4.0/LATCHI-HUB-PRO-1.4.0-arm64-v8a.apk",
-  "notes_ar": "إصلاح تصنيف الملفات المشارَكة (الصور تذهب للمعرض) · معرض أسرع بلا تقطيع · زر رفع في وسط شريط التنقل · قائمة تنزيل/حذف في عارض الصور · حذف كلي للمجلدات · نظام تحديث تلقائي",
+  "version_name": "1.5.0",
+  "version_code": 6,
+  "apk_url": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/hub-v1.5.0/LATCHI-HUB-PRO-1.5.0-arm64-v8a.apk",
+  "notes_ar": "✅ إصلاح فشل الرفع (Bad credentials) · 🪟 نافذة الرفع: أزرار تشتغل + إخفاء/إظهار · 📦 APK باسمه بلا zip · 📥 التحميل في Download · 🔐 صلاحيات التخزين · 🔄 الرفع يكمل في الخلفية · ✨ واجهة زجاجية زاهية + زر رفع في الوسط",
   "force": false
 }
