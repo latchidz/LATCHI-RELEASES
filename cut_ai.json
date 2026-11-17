@@ -1,0 +1,8 @@
+{
+  "hf_token_parts": [
+    "hf_SQROyEfGmqh",
+    "OKbbYfnvuWlvzApfAxCcaWS"
+  ],
+  "model": "Qwen/Qwen2.5-72B-Instruct",
+  "note": "LATCHI CUT SHORT AI config - parts joined at runtime"
+}
