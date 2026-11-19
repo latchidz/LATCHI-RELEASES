@@ -1,10 +1,10 @@
 {
   "update_available": true,
-  "versionCode": 2026111603,
-  "versionName": "1.4.2",
-  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/v2026111603/latchi-iptv-2026111603.apk",
+  "versionCode": 2026111901,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/latchidz/LATCHI-RELEASES/releases/download/v2026111901/latchi-iptv-2026111901.apk",
   "forceUpdate": true,
   "notes": {
-    "ar": "LATCHI TV 1.4.2 — بطاقات احترافية جديدة كليًا للهاتف (6:2) والتلفاز (6:3) بكتابة مدمجة وشعار beIN الرسمي، وسبلاش إسلامي أسود وأبيض بالشخصية الكرتونية مع البسملة والموعظة. ثبّته فوق النسخة الموجودة مباشرة."
+    "ar": "LATCHI TV 1.5.0 — خط لاتيني احترافي جديد (Montserrat ExtraBold Italic) بدل المزخرف، ثلاث شاشات بداية تتبدّل عند كل فتح (الصورة المطلوبة · نيون LATCHI TV · إسلامية بالبسملة والصلاة على النبي وبر الوالدين بلا صور وجوه)، وأيقونتان صغيرتان أنيقتان في الرئيسية لاسم المستخدم وتاريخ الانتهاء. ثبّته فوق النسخة الموجودة."
   }
 }
